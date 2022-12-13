@@ -1,0 +1,70 @@
+@media only screen and (max-width: 1800px) {
+ 
+}
+
+@media only screen and (max-width: 1500px) {
+ 
+
+ 
+
+.shapeone {
+ 
+  top: 198px;
+}
+
+.shapetwo {
+ 
+  bottom: 291px;
+  left: 531px;
+}
+
+
+.ssimg {
+  margin-left: -123px;
+}
+
+ 
+img.shape1 {
+ 
+  top: 58px;
+  left: -134px;
+}
+
+img.shape2 {
+ 
+  bottom: 89px;
+  right: -46px;
+}
+
+   .main-menu ul li a {
+ 
+    font-size: 16px;
+ 
+ }
+ *{
+ 
+  font-size: 14px;
+ 
+}
+a{
+ 
+  font-size: 16px;
+}
+.btun{
+ 
+  padding: 20px 40px;
+ 
+}
+}
+@media only screen and (max-width: 1200px) {
+  .ssimg {
+  display: none;
+  }
+  img.shape1 {
+ display: none;
+  }
+  
+  img.shape2 {
+  display: none;
+  }
+}
